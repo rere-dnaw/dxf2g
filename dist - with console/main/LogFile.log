@@ -1,0 +1,254 @@
+DEBUG 2018-09-13 16:07:21,984 - Did read 646 of linepairs from DXF
+INFO 2018-09-13 16:07:21,984 - Reading DXF Structure
+INFO 2018-09-13 16:07:21,986 - Creating Contours of Entities
+INFO 2018-09-13 16:07:21,988 - Loaded layers: 18
+INFO 2018-09-13 16:07:21,988 - Loaded blocks: 0
+INFO 2018-09-13 16:07:21,988 - Loaded 33 entity geometries; reduced to 30 contours; used layers: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]; number of inserts 0
+INFO 2018-09-13 16:07:21,988 - Drawing units: millimeters
+DEBUG 2018-09-13 16:07:21,988 - Clicked Point: X -> 0.000  Y -> 0.000
+DEBUG 2018-09-13 16:07:21,988 - Old Start Point: X ->85.000  Y ->1080.000
+DEBUG 2018-09-13 16:07:21,988 - New Start Point: X ->85.000  Y ->1080.000
+DEBUG 2018-09-13 16:07:21,989 - Analysing the shape for CW direction Nr: 0
+DEBUG 2018-09-13 16:07:21,989 - Clicked Point: X -> 0.000  Y -> 0.000
+DEBUG 2018-09-13 16:07:21,989 - Old Start Point: X ->25.000  Y ->1085.000
+DEBUG 2018-09-13 16:07:21,989 - New Start Point: X ->25.000  Y ->1085.000
+DEBUG 2018-09-13 16:07:21,989 - Analysing the shape for CW direction Nr: 1
+DEBUG 2018-09-13 16:07:21,989 - Clicked Point: X -> 0.000  Y -> 0.000
+DEBUG 2018-09-13 16:07:21,989 - Old Start Point: X ->123.000  Y ->740.000
+DEBUG 2018-09-13 16:07:21,989 - New Start Point: X ->123.000  Y ->740.000
+DEBUG 2018-09-13 16:07:21,989 - Analysing the shape for CW direction Nr: 2
+DEBUG 2018-09-13 16:07:21,990 - Clicked Point: X -> 0.000  Y -> 0.000
+DEBUG 2018-09-13 16:07:21,990 - Old Start Point: X ->42.000  Y ->731.000
+DEBUG 2018-09-13 16:07:21,990 - New Start Point: X ->42.000  Y ->731.000
+DEBUG 2018-09-13 16:07:21,990 - Analysing the shape for CW direction Nr: 3
+DEBUG 2018-09-13 16:07:21,990 - Clicked Point: X -> 0.000  Y -> 0.000
+DEBUG 2018-09-13 16:07:21,990 - Old Start Point: X ->46.716  Y ->961.716
+DEBUG 2018-09-13 16:07:21,990 - New Start Point: X ->46.716  Y ->961.716
+DEBUG 2018-09-13 16:07:21,990 - Analysing the shape for CW direction Nr: 4
+DEBUG 2018-09-13 16:07:21,990 - Clicked Point: X -> 0.000  Y -> 0.000
+DEBUG 2018-09-13 16:07:21,990 - Old Start Point: X ->299.000  Y ->810.000
+DEBUG 2018-09-13 16:07:21,991 - New Start Point: X ->299.000  Y ->810.000
+DEBUG 2018-09-13 16:07:21,991 - Analysing the shape for CW direction Nr: 5
+DEBUG 2018-09-13 16:07:21,991 - Clicked Point: X -> 0.000  Y -> 0.000
+DEBUG 2018-09-13 16:07:21,991 - Old Start Point: X ->409.000  Y ->963.000
+DEBUG 2018-09-13 16:07:21,991 - New Start Point: X ->409.000  Y ->963.000
+DEBUG 2018-09-13 16:07:21,991 - Analysing the shape for CW direction Nr: 6
+DEBUG 2018-09-13 16:07:21,991 - Clicked Point: X -> 0.000  Y -> 0.000
+DEBUG 2018-09-13 16:07:21,991 - Old Start Point: X ->32.172  Y ->276.022
+DEBUG 2018-09-13 16:07:21,991 - New Start Point: X ->32.172  Y ->276.022
+DEBUG 2018-09-13 16:07:21,992 - Analysing the shape for CW direction Nr: 7
+DEBUG 2018-09-13 16:07:21,992 - Clicked Point: X -> 0.000  Y -> 0.000
+DEBUG 2018-09-13 16:07:21,992 - Old Start Point: X ->52.172  Y ->276.022
+DEBUG 2018-09-13 16:07:21,992 - New Start Point: X ->52.172  Y ->276.022
+DEBUG 2018-09-13 16:07:21,992 - Analysing the shape for CW direction Nr: 8
+DEBUG 2018-09-13 16:07:21,992 - Clicked Point: X -> 0.000  Y -> 0.000
+DEBUG 2018-09-13 16:07:21,993 - Old Start Point: X ->492.172  Y ->736.022
+DEBUG 2018-09-13 16:07:21,993 - New Start Point: X ->492.172  Y ->736.022
+DEBUG 2018-09-13 16:07:21,993 - Analysing the shape for CW direction Nr: 9
+DEBUG 2018-09-13 16:07:21,993 - Clicked Point: X -> 0.000  Y -> 0.000
+DEBUG 2018-09-13 16:07:21,993 - Old Start Point: X ->492.172  Y ->716.022
+DEBUG 2018-09-13 16:07:21,993 - New Start Point: X ->492.172  Y ->716.022
+DEBUG 2018-09-13 16:07:21,993 - Analysing the shape for CW direction Nr: 10
+DEBUG 2018-09-13 16:07:21,993 - Clicked Point: X -> 0.000  Y -> 0.000
+DEBUG 2018-09-13 16:07:21,993 - Old Start Point: X ->312.172  Y ->620.022
+DEBUG 2018-09-13 16:07:21,993 - New Start Point: X ->312.172  Y ->620.022
+DEBUG 2018-09-13 16:07:21,993 - Analysing the shape for CW direction Nr: 11
+DEBUG 2018-09-13 16:07:21,994 - Clicked Point: X -> 0.000  Y -> 0.000
+DEBUG 2018-09-13 16:07:21,994 - Old Start Point: X ->312.172  Y ->640.022
+DEBUG 2018-09-13 16:07:21,994 - New Start Point: X ->312.172  Y ->640.022
+DEBUG 2018-09-13 16:07:21,994 - Analysing the shape for CW direction Nr: 12
+DEBUG 2018-09-13 16:07:21,994 - Clicked Point: X -> 0.000  Y -> 0.000
+DEBUG 2018-09-13 16:07:21,994 - Old Start Point: X ->312.172  Y ->660.022
+DEBUG 2018-09-13 16:07:21,994 - New Start Point: X ->312.172  Y ->660.022
+DEBUG 2018-09-13 16:07:21,994 - Analysing the shape for CW direction Nr: 13
+DEBUG 2018-09-13 16:07:21,994 - Clicked Point: X -> 0.000  Y -> 0.000
+DEBUG 2018-09-13 16:07:21,994 - Old Start Point: X ->312.172  Y ->680.022
+DEBUG 2018-09-13 16:07:21,994 - New Start Point: X ->312.172  Y ->680.022
+DEBUG 2018-09-13 16:07:21,994 - Analysing the shape for CW direction Nr: 14
+DEBUG 2018-09-13 16:07:21,995 - Clicked Point: X -> 0.000  Y -> 0.000
+DEBUG 2018-09-13 16:07:21,995 - Old Start Point: X ->147.172  Y ->456.022
+DEBUG 2018-09-13 16:07:21,995 - New Start Point: X ->147.172  Y ->456.022
+DEBUG 2018-09-13 16:07:21,995 - Analysing the shape for CW direction Nr: 15
+DEBUG 2018-09-13 16:07:21,995 - Clicked Point: X -> 0.000  Y -> 0.000
+DEBUG 2018-09-13 16:07:21,995 - Old Start Point: X ->127.172  Y ->456.022
+DEBUG 2018-09-13 16:07:21,995 - New Start Point: X ->127.172  Y ->456.022
+DEBUG 2018-09-13 16:07:21,995 - Analysing the shape for CW direction Nr: 16
+DEBUG 2018-09-13 16:07:21,995 - Clicked Point: X -> 0.000  Y -> 0.000
+DEBUG 2018-09-13 16:07:21,995 - Old Start Point: X ->15.000  Y ->705.000
+DEBUG 2018-09-13 16:07:21,996 - New Start Point: X ->15.000  Y ->705.000
+DEBUG 2018-09-13 16:07:21,996 - Analysing the shape for CW direction Nr: 17
+DEBUG 2018-09-13 16:07:21,996 - Clicked Point: X -> 0.000  Y -> 0.000
+DEBUG 2018-09-13 16:07:21,996 - Old Start Point: X ->15.000  Y ->258.850
+DEBUG 2018-09-13 16:07:21,996 - New Start Point: X ->15.000  Y ->258.850
+DEBUG 2018-09-13 16:07:21,996 - Analysing the shape for CW direction Nr: 18
+DEBUG 2018-09-13 16:07:21,996 - Clicked Point: X -> 0.000  Y -> 0.000
+DEBUG 2018-09-13 16:07:21,996 - Old Start Point: X ->15.000  Y ->705.000
+DEBUG 2018-09-13 16:07:21,996 - New Start Point: X ->15.000  Y ->705.000
+DEBUG 2018-09-13 16:07:21,997 - Analysing the shape for CW direction Nr: 19
+DEBUG 2018-09-13 16:07:21,997 - Clicked Point: X -> 0.000  Y -> 0.000
+DEBUG 2018-09-13 16:07:21,997 - Old Start Point: X ->15.000  Y ->258.850
+DEBUG 2018-09-13 16:07:21,997 - New Start Point: X ->15.000  Y ->258.850
+DEBUG 2018-09-13 16:07:21,997 - Analysing the shape for CW direction Nr: 20
+DEBUG 2018-09-13 16:07:21,997 - Clicked Point: X -> 0.000  Y -> 0.000
+DEBUG 2018-09-13 16:07:21,997 - Old Start Point: X ->2440.000  Y -> 0.000
+DEBUG 2018-09-13 16:07:21,997 - New Start Point: X -> 0.000  Y -> 0.000
+DEBUG 2018-09-13 16:07:21,997 - Analysing the shape for CW direction Nr: 21
+DEBUG 2018-09-13 16:07:21,997 - Analysing the shape for CW direction Nr: 22
+DEBUG 2018-09-13 16:07:21,997 - Shoelace method cannot (directly) be applied to this shape
+DEBUG 2018-09-13 16:07:21,998 - Had to reverse the shape to be CW
+DEBUG 2018-09-13 16:07:21,998 - Analysing the shape for CW direction Nr: 23
+DEBUG 2018-09-13 16:07:21,998 - Had to reverse the shape to be CW
+DEBUG 2018-09-13 16:07:21,998 - Analysing the shape for CW direction Nr: 24
+DEBUG 2018-09-13 16:07:21,998 - Had to reverse the shape to be CW
+DEBUG 2018-09-13 16:07:21,998 - Analysing the shape for CW direction Nr: 25
+DEBUG 2018-09-13 16:07:21,998 - Had to reverse the shape to be CW
+DEBUG 2018-09-13 16:07:21,998 - Analysing the shape for CW direction Nr: 26
+DEBUG 2018-09-13 16:07:21,998 - Shoelace method cannot (directly) be applied to this shape
+DEBUG 2018-09-13 16:07:21,998 - Analysing the shape for CW direction Nr: 27
+DEBUG 2018-09-13 16:07:21,998 - Analysing the shape for CW direction Nr: 28
+DEBUG 2018-09-13 16:07:21,999 - Shoelace method cannot (directly) be applied to this shape
+DEBUG 2018-09-13 16:07:21,999 - Analysing the shape for CW direction Nr: 29
+DEBUG 2018-09-13 16:07:21,999 - Shoelace method cannot (directly) be applied to this shape
+DEBUG 2018-09-13 16:07:21,999 - Had to reverse the shape to be CW
+DEBUG 2018-09-13 16:07:21,999 - Export the enabled shapes
+DEBUG 2018-09-13 16:07:21,999 - Sorted layers:
+DEBUG 2018-09-13 16:07:21,999 - LayerContents[0] = 
+LayerContent
+nr:     0
+name:   FRAME_Z15
+shapes: [<core.shape.Shape object at 0x0370C830>]
+DEBUG 2018-09-13 16:07:22,000 - LayerContents[1] = 
+LayerContent
+nr:     1
+name:   OFFCUT_D0_T128.2_RK1_A0_W0_RI1_EM1
+shapes: [<core.shape.Shape object at 0x03A092B0>]
+DEBUG 2018-09-13 16:07:22,000 - LayerContents[2] = 
+LayerContent
+nr:     2
+name:   CUTOUT_Z15_D0
+shapes: [<core.shape.Shape object at 0x039D5030>, <core.shape.Shape object at 0x039FAA90>]
+DEBUG 2018-09-13 16:07:22,000 - LayerContents[3] = 
+LayerContent
+nr:     3
+name:   POCKET_RD0_Z10_D0
+shapes: [<core.shape.Shape object at 0x039D5050>, <core.shape.Shape object at 0x039FAAB0>]
+DEBUG 2018-09-13 16:07:22,000 - LayerContents[4] = 
+LayerContent
+nr:     4
+name:   ROUT_Z6_D9
+shapes: [<core.shape.Shape object at 0x03A04AF0>]
+DEBUG 2018-09-13 16:07:22,000 - LayerContents[5] = 
+LayerContent
+nr:     5
+name:   ROUT_Z6_D21
+shapes: [<core.shape.Shape object at 0x03A093D0>]
+DEBUG 2018-09-13 16:07:22,000 - LayerContents[6] = 
+LayerContent
+nr:     6
+name:   ROUT_Z6_D32
+shapes: [<core.shape.Shape object at 0x03A09270>]
+DEBUG 2018-09-13 16:07:22,000 - LayerContents[7] = 
+LayerContent
+nr:     7
+name:   ROUT_Z6_D26
+shapes: [<core.shape.Shape object at 0x03A09510>]
+DEBUG 2018-09-13 16:07:22,000 - LayerContents[8] = 
+LayerContent
+nr:     8
+name:   POCKET_D0
+shapes: [<core.shape.Shape object at 0x03A04D50>, <core.shape.Shape object at 0x0370C1D0>]
+DEBUG 2018-09-13 16:07:22,000 - LayerContents[9] = 
+LayerContent
+nr:     9
+name:   ROUT_Z6_D24
+shapes: [<core.shape.Shape object at 0x03A09650>]
+DEBUG 2018-09-13 16:07:22,000 - LayerContents[10] = 
+LayerContent
+nr:     10
+name:   VBORE_Z8_D8
+shapes: [<core.shape.Shape object at 0x0370C5F0>, <core.shape.Shape object at 0x0370C190>, <core.shape.Shape object at 0x03A04150>, <core.shape.Shape object at 0x03A04D30>, <core.shape.Shape object at 0x0370CE50>, <core.shape.Shape object at 0x0370CE90>, <core.shape.Shape object at 0x039D02D0>, <core.shape.Shape object at 0x039D04F0>, <core.shape.Shape object at 0x039D0710>, <core.shape.Shape object at 0x039D0930>]
+DEBUG 2018-09-13 16:07:22,000 - LayerContents[11] = 
+LayerContent
+nr:     11
+name:   CONTOUR_D0_T133_A2_W2
+shapes: [<core.shape.Shape object at 0x03A09790>]
+DEBUG 2018-09-13 16:07:22,000 - LayerContents[12] = 
+LayerContent
+nr:     12
+name:   GROOVE_Z9_D12
+shapes: [<core.shape.Shape object at 0x03A098B0>]
+DEBUG 2018-09-13 16:07:22,000 - LayerContents[13] = 
+LayerContent
+nr:     13
+name:   GROOVE_Z9_D13
+shapes: [<core.shape.Shape object at 0x03A09A90>]
+DEBUG 2018-09-13 16:07:22,000 - LayerContents[14] = 
+LayerContent
+nr:     14
+name:   BORDER_D0_T128__N_RK1_F500_S3000_SA4000_A0_W0_RI1_EM1_ID0001
+shapes: [<core.shape.Shape object at 0x039D0B30>]
+DEBUG 2018-09-13 16:07:22,000 - LayerContents[15] = 
+LayerContent
+nr:     15
+name:   BORDER_D0_T128__N_RK1_F500_S3000_SA4000_A0_W0_RI1_EM1_ID0002
+shapes: [<core.shape.Shape object at 0x039D0FF0>]
+DEBUG 2018-09-13 16:07:22,000 - LayerContents[16] = 
+LayerContent
+nr:     16
+name:   BORDER_D0_T128.1_RK1_F600_A0_W0_RI1_EM1_ID0001
+shapes: [<core.shape.Shape object at 0x039D24D0>]
+DEBUG 2018-09-13 16:07:22,000 - LayerContents[17] = 
+LayerContent
+nr:     17
+name:   BORDER_D0_T128.1_RK1_F600_A0_W0_RI1_EM1_ID0002
+shapes: [<core.shape.Shape object at 0x039D29D0>]
+DEBUG 2018-09-13 16:07:22,003 - Found 0 break layers
+DEBUG 2018-09-13 16:07:22,004 - Beginning export of Layer Nr. 0, Name FRAME_Z15
+DEBUG 2018-09-13 16:07:22,005 - Beginning export of Shape Nr: 21
+DEBUG 2018-09-13 16:07:22,016 - Beginning export of Layer Nr. 1, Name OFFCUT_D0_T128.2_RK1_A0_W0_RI1_EM1
+DEBUG 2018-09-13 16:07:22,017 - Beginning export of Shape Nr: 22
+DEBUG 2018-09-13 16:07:22,024 - Beginning export of Layer Nr. 2, Name CUTOUT_Z15_D0
+DEBUG 2018-09-13 16:07:22,025 - Beginning export of Shape Nr: 0
+DEBUG 2018-09-13 16:07:22,035 - Beginning export of Shape Nr: 2
+DEBUG 2018-09-13 16:07:22,046 - Beginning export of Layer Nr. 3, Name POCKET_RD0_Z10_D0
+DEBUG 2018-09-13 16:07:22,047 - Beginning export of Shape Nr: 1
+DEBUG 2018-09-13 16:07:22,057 - Beginning export of Shape Nr: 3
+DEBUG 2018-09-13 16:07:22,067 - Beginning export of Layer Nr. 4, Name ROUT_Z6_D9
+DEBUG 2018-09-13 16:07:22,068 - Beginning export of Shape Nr: 4
+DEBUG 2018-09-13 16:07:22,076 - Beginning export of Layer Nr. 5, Name ROUT_Z6_D21
+DEBUG 2018-09-13 16:07:22,077 - Beginning export of Shape Nr: 23
+DEBUG 2018-09-13 16:07:22,083 - Beginning export of Layer Nr. 6, Name ROUT_Z6_D32
+DEBUG 2018-09-13 16:07:22,084 - Beginning export of Shape Nr: 24
+DEBUG 2018-09-13 16:07:22,091 - Beginning export of Layer Nr. 7, Name ROUT_Z6_D26
+DEBUG 2018-09-13 16:07:22,091 - Beginning export of Shape Nr: 25
+DEBUG 2018-09-13 16:07:22,098 - Beginning export of Layer Nr. 8, Name POCKET_D0
+DEBUG 2018-09-13 16:07:22,099 - Beginning export of Shape Nr: 5
+DEBUG 2018-09-13 16:07:22,108 - Beginning export of Shape Nr: 6
+DEBUG 2018-09-13 16:07:22,118 - Beginning export of Layer Nr. 9, Name ROUT_Z6_D24
+DEBUG 2018-09-13 16:07:22,118 - Beginning export of Shape Nr: 26
+DEBUG 2018-09-13 16:07:22,125 - Beginning export of Layer Nr. 10, Name VBORE_Z8_D8
+DEBUG 2018-09-13 16:07:22,125 - Beginning export of Shape Nr: 7
+DEBUG 2018-09-13 16:07:22,134 - Beginning export of Shape Nr: 8
+DEBUG 2018-09-13 16:07:22,141 - Beginning export of Shape Nr: 9
+DEBUG 2018-09-13 16:07:22,149 - Beginning export of Shape Nr: 10
+DEBUG 2018-09-13 16:07:22,156 - Beginning export of Shape Nr: 11
+DEBUG 2018-09-13 16:07:22,164 - Beginning export of Shape Nr: 12
+DEBUG 2018-09-13 16:07:22,172 - Beginning export of Shape Nr: 13
+DEBUG 2018-09-13 16:07:22,179 - Beginning export of Shape Nr: 14
+DEBUG 2018-09-13 16:07:22,187 - Beginning export of Shape Nr: 15
+DEBUG 2018-09-13 16:07:22,195 - Beginning export of Shape Nr: 16
+DEBUG 2018-09-13 16:07:22,203 - Beginning export of Layer Nr. 11, Name CONTOUR_D0_T133_A2_W2
+DEBUG 2018-09-13 16:07:22,204 - Beginning export of Shape Nr: 27
+DEBUG 2018-09-13 16:07:22,211 - Beginning export of Layer Nr. 12, Name GROOVE_Z9_D12
+DEBUG 2018-09-13 16:07:22,212 - Beginning export of Shape Nr: 28
+DEBUG 2018-09-13 16:07:22,218 - Beginning export of Layer Nr. 13, Name GROOVE_Z9_D13
+DEBUG 2018-09-13 16:07:22,219 - Beginning export of Shape Nr: 29
+DEBUG 2018-09-13 16:07:22,226 - Beginning export of Layer Nr. 14, Name BORDER_D0_T128__N_RK1_F500_S3000_SA4000_A0_W0_RI1_EM1_ID0001
+DEBUG 2018-09-13 16:07:22,227 - Beginning export of Shape Nr: 17
+DEBUG 2018-09-13 16:07:22,237 - Beginning export of Layer Nr. 15, Name BORDER_D0_T128__N_RK1_F500_S3000_SA4000_A0_W0_RI1_EM1_ID0002
+DEBUG 2018-09-13 16:07:22,237 - Beginning export of Shape Nr: 18
+DEBUG 2018-09-13 16:07:22,248 - Beginning export of Layer Nr. 16, Name BORDER_D0_T128.1_RK1_F600_A0_W0_RI1_EM1_ID0001
+DEBUG 2018-09-13 16:07:22,248 - Beginning export of Shape Nr: 19
+DEBUG 2018-09-13 16:07:22,259 - Beginning export of Layer Nr. 17, Name BORDER_D0_T128.1_RK1_F600_A0_W0_RI1_EM1_ID0002
+DEBUG 2018-09-13 16:07:22,260 - Beginning export of Shape Nr: 20
+INFO 2018-09-13 16:07:22,271 - Export to FILE was successful

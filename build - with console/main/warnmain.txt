@@ -1,0 +1,21 @@
+missing module named resource - imported by posix, C:\PythonScripts\1.Programming\dxf2g\main.py
+missing module named posix - imported by os, C:\PythonScripts\1.Programming\dxf2g\main.py
+missing module named _posixsubprocess - imported by subprocess, C:\PythonScripts\1.Programming\dxf2g\main.py
+missing module named readline - imported by cmd, code, pdb, C:\PythonScripts\1.Programming\dxf2g\main.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, C:\PythonScripts\1.Programming\dxf2g\main.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, C:\PythonScripts\1.Programming\dxf2g\main.py
+missing module named _winreg - imported by platform, C:\PythonScripts\1.Programming\dxf2g\main.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, C:\PythonScripts\1.Programming\dxf2g\main.py
+missing module named 'java.lang' - imported by platform, C:\PythonScripts\1.Programming\dxf2g\main.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, C:\PythonScripts\1.Programming\dxf2g\main.py
+missing module named termios - imported by tty, C:\PythonScripts\1.Programming\dxf2g\main.py, getpass
+missing module named grp - imported by shutil, tarfile, C:\PythonScripts\1.Programming\dxf2g\main.py
+missing module named _dummy_threading - imported by dummy_threading, C:\PythonScripts\1.Programming\dxf2g\main.py
+missing module named 'org.python' - imported by copy, C:\PythonScripts\1.Programming\dxf2g\main.py, xml.sax
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, C:\PythonScripts\1.Programming\dxf2g\main.py, netrc, getpass
+missing module named org - imported by pickle, C:\PythonScripts\1.Programming\dxf2g\main.py
+missing module named StringIO - imported by six, globals.six
+missing module named compiler - imported by globals.configobj.configobj
+missing module named 'globals.ordereddict' - imported by globals.config
+missing module named Carbon - imported by wx.lib.colourutils
